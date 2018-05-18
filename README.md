@@ -1,7 +1,5 @@
 # BP text-based android game
 
-Planned for Android 4.1 Jelly Bean and above (99.3 % of all Android users)
-
 Here are 8 highlights of planned content (see 01 planned content file for more):
 
 - singleplayer (maybe multiplayer very late in development)
