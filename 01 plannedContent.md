@@ -5,7 +5,7 @@
 
 # BP text-based android game
 
-Planned for Android 4.1 Jelly Bean and above (99.3 % of all Android users)
+Planned for Android 4.0.3 IceCreamSandwich and above (nearly 100 % of all Android users)
 
 
 Planned content:
