@@ -13,7 +13,7 @@ Planned content:
 - singleplayer (maybe multiplayer very late in development)
 - Chernarus map high resolution, accessable anytime during play
 - player must find his own position everytime and can place markers  on map)
-- 1920x1080 ingame screenshots of all buildings (Chernarus Redux ArmA 3 mod)
+- 1920x1080 ingame screenshots of all buildings (Chernarus Redux ArmA 3 mod), of helicrashes and airdrops
 - screenshots of buildings at 3 different daytimes and rain and no rain:
 
   - afternoon
