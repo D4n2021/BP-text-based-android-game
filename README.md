@@ -1,4 +1,4 @@
-# BP-text-based-android game
+# BP text-based android game
 
 Planned content:
 
