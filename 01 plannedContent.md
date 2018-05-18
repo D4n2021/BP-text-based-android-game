@@ -11,7 +11,9 @@ Planned for Android 4.0.3 IceCreamSandwich and above (nearly 100 % of all Androi
 Planned content:
 
 - singleplayer (maybe multiplayer very late in development)
-- Chernarus map high resolution, accessable anytime during play
+- player starts somewhere on the map (random points)
+- player can follow roads to find road signs
+- player will have to find the Chernarus high resolution map and a compas, accessable anytime during play
 - player must find his own position everytime and can place markers  on map)
 - 1920x1080 ingame screenshots of all buildings (Chernarus Redux ArmA 3 mod), of helicrashes and airdrops
 - screenshots of buildings at 3 different daytimes and rain and no rain:
@@ -25,15 +27,14 @@ so basically 6 screenshots of a building at least, targeted amount is 12 or even
 - original sounds (rain, no rain, wind)
 - hunger, thirst, sickness, bleeding (RNG for chance for finding food, water)
 - RNG based events (depending on location on map)
+- simulated Zombies chasing the player (player must react in time to avoid or shoot at zombie)
+- for weapon aiming, player must tap a button on the screen at the right timing to land a shot (maybe even RNG for hit probability)
 
 - statistics website showing:
    - player nickname
    - player deaths (in total)
    - survived days
    - killed zombies, distance travelled
-
-- simulated Zombies chasing the player (player must react in time to avoid or shoot at zombie)
-- for weapon aiming, player must tap a button on the screen at the right timing to land a shot (maybe even RNG for hit probability)
 
 Estimated App size:
 
