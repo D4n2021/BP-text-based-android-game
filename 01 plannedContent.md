@@ -41,4 +41,4 @@ Estimated App size:
 
 - 500-1000 MB for full 1080p version (possibly allowing downloading the images from a server while the game is already running, with menu to see current estimated full download time, calculated from server load)
 
-- 250-500 MB for a possible later 720p version (mostly containing downsized 1280x720 screenshots)
+- 250-500 MB for a possible later 720p version (mostly containing downsized 1280x720 screenshots, as a 720p image is less than half the size of a 1080p image)
