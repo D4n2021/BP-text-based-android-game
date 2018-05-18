@@ -11,6 +11,8 @@ Planned content:
 - original sounds
 - hunger, thirst, sickness, bleeding
 - RNG based events (depending on location on map)
+- simulated Zombies chasing the player (player must react in time to avoid or shoot at zombie)
+- for weapon aiming, player must tap a button on the screen at the right timing to land a shot (maybe even RNG for hit probability)
 
 Estimated App size 250-500 MB,
 
