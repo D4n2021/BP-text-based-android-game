@@ -1,5 +1,8 @@
 # BP text-based android game
 
+Planned for Android 4.1 Jelly Bean and above (99.3 % of all Android users)
+
+
 Planned content:
 
 - Chernarus map high resolution, accessable anytime during play
